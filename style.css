@@ -104,10 +104,10 @@ footer {
 }
 
 #hero {
-    background-image: url('https://d1csarkz8obe9u.cloudfront.net/posterpreviews/restaurant-menu-facebook-cover-design-template-b235d806622d010d1b41f3202434f6ea_screen.jpg?ts=1599813867');
+    
     text-align: center;
     padding: 4rem 1rem;
-    background: #f4f4f4;
+
     margin-top: 0;
     padding-top: 4rem;
 }
@@ -131,7 +131,7 @@ footer {
     border: 1px solid #ccc;
     padding: 1rem;
     border-radius: 5px;
-    background: #f9f9f9;
+
 }
 
 .item img {
@@ -195,4 +195,14 @@ textarea {
 button[type="submit"] {
     border: none;
     cursor: pointer;
+}
+span.price {
+text-align: center;
+    font-weight: bold;
+    color: #555;
+    background-color: #011d0117;
+    padding: 5px;
+    border-radius: 15px;
+    
+   
 }
